@@ -3,7 +3,12 @@
 **No-code desktop automation for Windows.** Turn repetitive mouse, keyboard and web tasks into scripts that run with one key.
 You pick settings from menus instead of writing code, and if you'd rather not build a script yourself, an AI can write it for you.
 
+### ⬇ [Download HandsFree v1.0.0 (Windows, 131 MB)](https://github.com/99handsfree/HandsFree/releases/download/v1.0.0/HandsFree.zip)
+
 **[繁體中文說明](README.zh-TW.md)** · **Lifetime licence: 9 USDT** · 7-day free trial
+
+> The only official page is **https://github.com/99handsfree/HandsFree** and the only contact address is **99handsfree@gmail.com**.
+> Copies of this page on other accounts are not ours; do not download or pay anyone else.
 
 ![HandsFree main window](https://github.com/user-attachments/assets/33c2a906-d9ca-4a07-8460-2a4948d0fd35)
 
@@ -34,7 +39,7 @@ Each step lights up as it runs, and the Run Log shows exactly what happened.
 
 ## Download & install
 
-1. Download the latest `HandsFree.zip` from **[Releases](../../releases)**
+1. Download **[HandsFree.zip](https://github.com/99handsfree/HandsFree/releases/download/v1.0.0/HandsFree.zip)** (all versions are on the [Releases](https://github.com/99handsfree/HandsFree/releases) page)
 2. Unzip it anywhere. Keep the whole folder together; the `.exe` does not work on its own
 3. Run `HandsFree.exe`
 

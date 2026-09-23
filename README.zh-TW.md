@@ -41,6 +41,8 @@
 **系統需求**:Windows 10 / 11(64 位元)。網頁功能會使用電腦內建的 Microsoft Edge(或 Google Chrome)。
 不需要安裝 Python 或其他軟體,文字辨識也已經內建。
 
+**掃毒報告**:[VirusTotal 對 HandsFree.zip 的掃描結果](https://www.virustotal.com/gui/file/085c683a4303ba074c984e7e86c8cf9965d1addd8c95b8ec767dea8612e4de18) — 沒有任何防毒廠商判定為惡意。
+
 ### 第一次開啟會看到的提示
 
 - **「Windows 已保護您的電腦」**(SmartScreen):程式還沒有數位簽章。點「**其他資訊**」→「**仍要執行**」。

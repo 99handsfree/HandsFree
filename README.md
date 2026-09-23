@@ -3,6 +3,10 @@
 **No-code desktop automation for Windows.** Turn repetitive mouse, keyboard and web tasks into scripts that run with one key.
 You pick settings from menus instead of writing code, and if you'd rather not build a script yourself, an AI can write it for you.
 
+**[繁體中文說明](README.zh-TW.md)** · **Lifetime licence: 9 USDT** · 7-day free trial
+
+![HandsFree main window](https://github.com/user-attachments/assets/33c2a906-d9ca-4a07-8460-2a4948d0fd35)
+
 ## Features
 
 - **Record & replay**: do the task once and it becomes a reusable script
@@ -17,6 +21,16 @@ You pick settings from menus instead of writing code, and if you'd rather not bu
 - **Share scripts**: bundle a script and its images into a folder anyone can run with a double-click
 - **Chinese / English interface**, switchable with one click
 - 11 built-in lessons and 8 example scripts
+
+### Watch a script run
+
+Each step lights up as it runs, and the Run Log shows exactly what happened.
+
+![A script running, step by step](https://github.com/user-attachments/assets/909c13cc-7030-4bda-853d-469f1fa53484)
+
+### Let an AI write the script
+
+![The AI writes the script for you](https://github.com/user-attachments/assets/9dbfe697-bc8f-4e83-bc5e-6501365ba6bc)
 
 ## Download & install
 
@@ -33,12 +47,18 @@ Nothing else to install: no Python, no OCR engine.
 - **"Do you want to allow this app to make changes to your device?"**: click **Yes**. HandsFree needs administrator rights to control programs that also run as administrator (some games, for example).
 - Some antivirus products warn about any program that controls the mouse and keyboard. That is expected for automation tools.
 
-## Free trial & activation
+## Price & activation
 
-- **Free for 7 days** from the first launch, with every feature unlocked.
-- After the trial, activate with a card number: copy the whole card number, then click **Paste Card Number → Activate** in the activation window.
-- Activation works completely offline.
-- **To buy a card number, contact: [99handsfree@gmail.com](mailto:99handsfree@gmail.com)**
+| | |
+|---|---|
+| **Free trial** | 7 days from the first launch, every feature unlocked |
+| **Lifetime licence** | **9 USDT**, one-time payment in cryptocurrency, no subscription |
+
+1. Email **[99handsfree@gmail.com](mailto:99handsfree@gmail.com)** to buy; you'll get the payment details by reply.
+2. After payment you receive a card number.
+3. In HandsFree, open the activation window (it appears when the trial ends, or **Help → Activate / License Status**), click **Paste Card Number → Activate**.
+
+Activation works completely offline.
 
 ## Responsible use
 

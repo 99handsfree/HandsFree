@@ -41,6 +41,8 @@ Each step lights up as it runs, and the Run Log shows exactly what happened.
 **Requirements**: Windows 10 or 11 (64-bit). Web automation uses the Microsoft Edge (or Google Chrome) already on your PC.
 Nothing else to install: no Python, no OCR engine.
 
+**Virus scan**: [VirusTotal report for HandsFree.zip](https://www.virustotal.com/gui/file/085c683a4303ba074c984e7e86c8cf9965d1addd8c95b8ec767dea8612e4de18) — no security vendor flagged this file.
+
 ### What you'll see the first time
 
 - **"Windows protected your PC"** (SmartScreen): the program is not code-signed yet. Click **More info → Run anyway**.

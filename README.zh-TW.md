@@ -3,7 +3,12 @@
 **Windows 桌面自動化工具,不用寫程式。** 把重複的滑鼠、鍵盤、網頁操作做成腳本,按一個鍵就自動完成。
 參數用選的,不用自己打;不會編腳本也沒關係,用說的讓 AI 幫你寫。
 
+### ⬇ [下載 HandsFree v1.0.0(Windows,131 MB)](https://github.com/99handsfree/HandsFree/releases/download/v1.0.0/HandsFree.zip)
+
 **[English](README.md)** · **買斷價 9 USDT** · 免費試用 7 天
+
+> 官方頁面只有 **https://github.com/99handsfree/HandsFree**,聯絡信箱只有 **99handsfree@gmail.com**。
+> 其他帳號上看起來一樣的頁面都不是我們的,請不要在那邊下載或付款。
 
 ![HandsFree main window](https://github.com/user-attachments/assets/33c2a906-d9ca-4a07-8460-2a4948d0fd35)
 
@@ -34,7 +39,7 @@
 
 ## 下載與安裝
 
-1. 到 **[Releases](../../releases)** 下載最新版的 `HandsFree.zip`
+1. 下載 **[HandsFree.zip](https://github.com/99handsfree/HandsFree/releases/download/v1.0.0/HandsFree.zip)**(所有版本都在 [Releases](https://github.com/99handsfree/HandsFree/releases) 頁面)
 2. 解壓縮到任何資料夾(整個資料夾要放在一起,不能只拿 exe)
 3. 雙擊 `HandsFree.exe`
 
